@@ -1,6 +1,13 @@
-Thanks for downloading this template!
+# Shruti Portfolio Website
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+This is my personal portfolio website developed using HTML.
+
+## Features
+- Personal portfolio design
+- Project showcase
+- Responsive layout
+
+## Technologies Used
+- HTML
+- CSS
+- Bootstrap
